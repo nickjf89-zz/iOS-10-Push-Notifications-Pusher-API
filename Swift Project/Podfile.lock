@@ -1,0 +1,22 @@
+PODS:
+  - PusherSwift (2.0.1)
+
+DEPENDENCIES:
+  - PusherSwift (from `https://github.com/pusher/pusher-websocket-swift.git`, branch `single-target-swift-3`)
+
+EXTERNAL SOURCES:
+  PusherSwift:
+    :branch: single-target-swift-3
+    :git: https://github.com/pusher/pusher-websocket-swift.git
+
+CHECKOUT OPTIONS:
+  PusherSwift:
+    :commit: dc0a8f31b0bf727708e681b8416b3777c5d50521
+    :git: https://github.com/pusher/pusher-websocket-swift.git
+
+SPEC CHECKSUMS:
+  PusherSwift: 81b5305973c641f9b3754662ba21d1cbcd932c9a
+
+PODFILE CHECKSUM: 719749db0686ccccb86cd4e3af0ab46ed491892f
+
+COCOAPODS: 1.0.1
